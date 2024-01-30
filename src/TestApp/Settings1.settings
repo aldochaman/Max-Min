@@ -1,0 +1,135 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestApp" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="userInputtxtIniSeq" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongSeq" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniFieldFileNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongFieldFileNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="userInputtxtInicmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">28</Value>
+    </Setting>
+    <Setting Name="userInputtxtlongcmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniTraceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">43</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongTraceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniSourcePoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">52</Value>
+    </Setting>
+    <Setting Name="userInputtxtlongSourcePoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniCmp1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">68</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongCmp1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniOffset" Type="System.String" Scope="User">
+      <Value Profile="(Default)">81</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongOffset" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniSourceX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">95</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongSourceX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniSourceY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">113</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongSourceY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniReceiverX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">128</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongReceiverX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniReceiverY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">145</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongReceiverY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniSourceStation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">160</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongSourceStation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniComponetType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">175</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongComponetType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniMainSourceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">187</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongMainSourceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="userInputtxtiniMainInstrumentType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">199</Value>
+    </Setting>
+    <Setting Name="userInputtxtlongMainInstrumentType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniCmpX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">207</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongCmpX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniCmpY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">225</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongCmpY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniFold" Type="System.String" Scope="User">
+      <Value Profile="(Default)">243</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongFold" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniCCPNorthing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongCCPNorthing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniCCPElevation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">271</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongCCPElevation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="userInputtxtIniCCPEasting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">287</Value>
+    </Setting>
+    <Setting Name="userInputtxtLongCCPEasting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="userInputtxtstart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">27</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
